@@ -25,7 +25,7 @@ Sponsored by IQBoxy app
 # Screenshot
 
 <p align="center">
-  <img width="525" height="934" src="assets/screenshot.gif"/>
+  <img width="263" height="467" src="assets/screenshot.gif"/>
 </p>
 
 

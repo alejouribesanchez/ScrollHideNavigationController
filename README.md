@@ -25,7 +25,7 @@ Sponsored by [IQBoxy app](https://itunes.apple.com/us/app/iqboxy-receipts/id8041
 # Screenshot
 
 <p align="center">
-  <img width="263" height="934" src="assets/screenshot.gif"/>
+  <img width="263" height="467" src="assets/screenshot.gif"/>
 </p>
 
 

@@ -11,7 +11,7 @@ A custom UINavigationController that enables the scrolling of the navigation bar
 scrolling of an observed content view.  
 
 
-Sponsored by IQBoxy app
+Sponsored by [IQBoxy app](https://itunes.apple.com/us/app/iqboxy-receipts/id804152735?ls=1&mt=8)
 <p align="center">
   <a href='https://www.iqboxy.com/' alt='sponsored by IQBoxy app'>
     <img width="340" height="166" src="assets/sponsor.png"/>
@@ -25,7 +25,7 @@ Sponsored by IQBoxy app
 # Screenshot
 
 <p align="center">
-  <img width="263" height="467" src="assets/screenshot.gif"/>
+  <img width="263" height="934" src="assets/screenshot.gif"/>
 </p>
 
 

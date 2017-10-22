@@ -1,19 +1,20 @@
 # ScrollHideNavigationController
 
 <p align="center">
-  <img width="420" height="240" src="assets/logo.png"/>
+  <img width="583" height="110" src="assets/logo.png"/>
 </p>
 
 
 ScrollHideNavigationController is Objective-c version of [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
 this version is compatible with [PageMenu](https://github.com/PageMenu/PageMenu)
 A custom UINavigationController that enables the scrolling of the navigation bar alongside the
-scrolling of an observed content view  
+scrolling of an observed content view.  
 
 
+Sponsored by IQBoxy app
 <p align="center">
   <a href='https://www.iqboxy.com/' alt='sponsored by IQBoxy app'>
-    <img width="50" height="60" src="assets/sponsor.png"/>
+    <img width="340" height="166" src="assets/sponsor.png"/>
   </a>
 </p>
 
@@ -24,7 +25,7 @@ scrolling of an observed content view
 # Screenshot
 
 <p align="center">
-  <img width="520" height="536" src="assets/screenshot.gif"/>
+  <img width="525" height="934" src="assets/screenshot.gif"/>
 </p>
 
 

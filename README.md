@@ -11,9 +11,9 @@ A custom UINavigationController that enables the scrolling of the navigation bar
 scrolling of an observed content view.  
 
 
-Sponsored by [IQBoxy app](https://itunes.apple.com/us/app/iqboxy-receipts/id804152735?ls=1&mt=8)
+Sponsored by [IQBoxy app](https://www.iqboxy.com/?utm_source=github-ScrollHideNavigationController&utm_medium=readme-notes&utm_campaign=social)
 <p align="center">
-  <a href='https://www.iqboxy.com/' alt='sponsored by IQBoxy app'>
+  <a href='https://www.iqboxy.com/?utm_source=github-ScrollHideNavigationController&utm_medium=readme-notes&utm_campaign=social' alt='sponsored by IQBoxy app'>
     <img width="340" height="166" src="assets/sponsor.png"/>
   </a>
 </p>

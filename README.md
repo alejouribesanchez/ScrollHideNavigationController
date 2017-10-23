@@ -46,7 +46,7 @@ Make sure to use a subclass of `ScrollHideNavigationController` for your `UINavi
 - (void)viewWillAppear:(BOOL)animated {
     [super viewWillAppear:animated];
 
-    [(ScrollingNavigationController *)self.navigationController followScrollView:self.tableView];
+    [(ScrollHideNavigationController *)self.navigationController followScrollView:self.tableView];
 }
 ```
 
@@ -56,7 +56,7 @@ you can put a delay
 - (void)viewWillAppear:(BOOL)animated {
     [super viewWillAppear:animated];
 
-    [(ScrollingNavigationController *)self.navigationController followScrollView:self.tableView delay:50.0f];
+    [(ScrollHideNavigationController *)self.navigationController followScrollView:self.tableView delay:50.0f];
 }
 ```
 
@@ -78,7 +78,6 @@ stop follow view
 + [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
 + [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)
 + [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar)
-+ [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
 + [GTScrollNavigationBar](https://github.com/luugiathuy/GTScrollNavigationBar)
 + [JKAutoShrinkView](https://github.com/fsjack/JKAutoShrinkView)
 + [SherginScrollableNavigationBar](https://github.com/shergin/SherginScrollableNavigationBar)
